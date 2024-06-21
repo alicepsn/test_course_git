@@ -1,0 +1,4 @@
+New file inside folder
+Another new file inside folder
+New file inside folder
+#Comment
